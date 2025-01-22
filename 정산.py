@@ -54,3 +54,66 @@
 }
 
 
+#[삿포로역 주변 인기 호텔]
+#삿포로 그랜드 호텔
+#http://www.hotelscombined.co.kr/Hotel/Sapporo_Grand_Hotel.htm?a_aid=199910
+#
+#크로스 호텔 삿포로
+#http://www.hotelscombined.co.kr/Hotel/Cross_Hotel_Sapporo.htm?a_aid=199910
+#
+#호텔 몬토레 삿포로
+#http://www.hotelscombined.co.kr/Hotel/Hotel_Monterey_Sapporo.htm?a_aid=199910
+#
+#JR 인 삿포로 에키 미나미 구치
+#http://www.hotelscombined.co.kr/Hotel/JR_INN_Sapporo_eki_Minami_guchi.htm?a_aid=199910
+#
+#
+#
+#
+#[오도리공원 & 스스키노 역 근처 인기 호텔]
+#삿포로 뷰 호텔 우도리 코우엔
+#http://www.hotelscombined.co.kr/Hotel/Sapporo_View_Hotel_Oodori_Kouen.htm?a_aid=199910
+#
+#호텔 레솔 트리니티 삿포로
+#http://www.hotelscombined.co.kr/Hotel/Hotel_Resol_Trinity_Sapporo.htm?a_aid=199910
+#
+#삿포로 도큐 레이 호텔
+#http://www.hotelscombined.co.kr/Hotel/Sapporo_Tokyu_REI_Hotel.htm?a_aid=199910
+#
+#
+#
+#
+#[나카지마코엔역 근처 인기 호텔]
+#삿포로 엑셀 호텔 도큐
+#http://www.hotelscombined.co.kr/Hotel/Sapporo_Excel_Hotel_Tokyu.htm?a_aid=199910
+#
+#삿포로 파크 호텔
+#http://www.hotelscombined.co.kr/Hotel/Sapporo_Park_Hotel.htm?a_aid=199910
+#
+#이비스 스타일스 삿포로
+#http://www.hotelscombined.co.kr/Hotel/Ibis_Styles_Sapporo.htm?a_aid=199910
+#
+#
+#
+#
+#[삿포로 온천 호텔]
+#도미인 삿포로 아넥스
+#http://www.hotelscombined.co.kr/Hotel/Dormy_Inn_Sapporo_Annex.htm?a_aid=199910
+#
+#도미인 프리미엄 삿포로
+#http://www.hotelscombined.co.kr/Hotel/Dormy_Inn_PREMIUM_Sapporo.htm?a_aid=199910
+#
+#
+#
+#
+#[삿포로 호스텔 & 게스트하우스]
+#그리드 삿포로 호텔&호스텔
+#http://www.hotelscombined.co.kr/Hotel/Grids_Sapporo_HotelHostel.htm?a_aid=199910
+#
+#게스트하우스 유유
+#http://www.hotelscombined.co.kr/Hotel/Guesthouse_Yuyu_Hostel.htm?a_aid=199910
+
+#오타루나이 백패커스 호스텔 모리노키
+
+#오타루 에키마에 게스트하우스 이토
+
