@@ -110,12 +110,12 @@
 # 그리드 삿포로 호텔&호스텔
 # http://www.hotelscombined.co.kr/Hotel/Grids_Sapporo_HotelHostel.htm?a_aid=199910
 #
-# 게스트하우스 유유
-# http://www.hotelscombined.co.kr/Hotel/Guesthouse_Yuyu_Hostel.htm?a_aid=199910
 
 # 오타루나이 백패커스 호스텔 모리노키
 # https://blog.naver.com/jrhhere/220912764055
 
-# 오타루 에키마에 게스트하우스 이토
-# https://m.blog.naver.com/soosoo1994/221551047644
+# 오타루 탭 룸 앤 호스텔
+# https://www.agoda.com/ko-kr/otaru-tap-room-craft-beer-hostel/hotel/otaru-jp.html?countryId=3&finalPriceView=1&isShowMobileAppPrice=false&cid=1922868&numberOfBedrooms=&familyMode=false&adults=1&children=0&rooms=1&maxRooms=0&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=0&showReviewSubmissionEntry=false&currencyCode=KRW&isFreeOccSearch=false&tag=666e69b4-446d-49dd-909e-e9614aee8412&tspTypes=9%2C16%2C8%2C-1&los=1&searchrequestid=c44b308c-7afd-4e0c-a033-8116af53e5d2&ds=F%2BX4hxYYB8zj5tBF&checkin=2025-03-05
+
+
 
