@@ -48,15 +48,14 @@
 
 # 숙소정보
 숙소 = {
-    "이름" : "Otaru Tap Room & Hostel" ,
-    "주소" : "2 Chome-4-8 Ironai, Otaru, Hokkaido 047-0031",
-    "Agoda 예약번호1"  : "1520902312" ,
-    "Agoda 예약번호2"  : "1520908728" ,
+    "이름" : "Tug-B Bar & Hostel" ,
+    "주소" : "花園 3-1-5, Otaru, Hokkaido, 047-0024",
+    "Agoda 예약번호"  : "1524001104" ,
     "숙박기간" : "2025-03-05 ~ 2025-03-06",
 
     "이름" : "karaksa hotel Sapporo" ,
     "주소" : "5-24 Minami 3-jo Nishi, Chuo-ku, Sapporo-shi, Hokkaido, 삿포로, 일본, 060-0063",
-    "Agoda 예약번호1"  : "1520998864" ,
+    "Agoda 예약번호"  : "1524003960" ,
     "숙박기간" : "2025-03-06 ~ 2025-03-09",
 
 }
